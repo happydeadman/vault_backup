@@ -23,12 +23,8 @@
             "id": "aac456f289c63e6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing autopull.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing autopull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing autopull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "testing autopull.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,6 +163,7 @@
   },
   "active": "aac456f289c63e6b",
   "lastOpenFiles": [
+    "testing autopull.md",
     "Typescript/Utility Types.md"
   ]
 }
