@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "48825072198caca7",
+        "id": "c35b4a4aefb422b5",
         "type": "tabs",
         "children": [
           {
-            "id": "a1b698cc0d3feda2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Utility Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aac456f289c63e6b",
+            "id": "1fe127e463644fe2",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +148,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aac456f289c63e6b",
+  "active": "16a83f01528a3239",
   "lastOpenFiles": [
     "Untitled.md",
     "testing autopull.md",
