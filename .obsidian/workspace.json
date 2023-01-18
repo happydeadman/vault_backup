@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "48825072198caca7",
+        "id": "c35b4a4aefb422b5",
         "type": "tabs",
         "children": [
           {
-            "id": "a1b698cc0d3feda2",
+            "id": "1fe127e463644fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Utility Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aac456f289c63e6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "typescript + React/Полиморфные React компоненты.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "typescript + React/Полиморфные React компоненты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "typescript + React/Полиморфные React компоненты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "typescript + React/Полиморфные React компоненты.md"
               }
             }
           },
@@ -169,8 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aac456f289c63e6b",
+  "active": "1fe127e463644fe2",
   "lastOpenFiles": [
+    "typescript + React/Валидация API при помощи Zod.md",
+    "Untitled.md",
     "testing autopull.md",
     "Typescript/Utility Types.md"
   ]
